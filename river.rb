@@ -30,16 +30,19 @@ def countries = (countries)
 @countries = countries  
 end 
 
-def discharge 
-  @discarge 
-end 
-
-def discharge = (discharge)
-  @discharge = dischrge 
+def discharge
+  @discharge
  end 
 
+def flood
+  @discharge= discharge*1.30
 end 
-  
+
+def dry up 
+  @dry up = dry up*1.50
+end 
+
+end 
   
   
   
