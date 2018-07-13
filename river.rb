@@ -36,11 +36,11 @@ def discharge
 
 def flood
   @discharge= discharge*1.30
-end 
+ end 
 
 def dry up 
   @dry up = dry up*1.50
-end 
+ end 
 
 end 
   
